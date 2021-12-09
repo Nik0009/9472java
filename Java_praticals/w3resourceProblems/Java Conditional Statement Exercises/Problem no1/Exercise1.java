@@ -8,7 +8,7 @@ Number is positive
 
 */
 import java.util.Scanner;
-public class Main {
+public class Exercise1 {
   public static void main(String[] args) {
   // Write your code here
   Scanner obj=new Scanner(System.in);
