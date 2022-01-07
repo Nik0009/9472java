@@ -4,6 +4,9 @@
   <artifactId>nikhil</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 
+   <name>nikhil</name>
+  <url>http://maven.apache.org</url>
+  
 <dependencies>
 <!-- https://mvnrepository.com/artifact/junit/junit -->
 < dependency >
